@@ -3,10 +3,6 @@
 
 This is a simple demostration to show Abercrombie&Fitch promotions with Android's some new Material Design and some other cool new stuff which is (new) in Android Lollipop.
 
-#Developed By
-
-* Jumbo Chu - http://personal-env.elasticbeanstalk.com/single-page - <chu.jing.bo.stan@gmail.com>
-
 This includes features like:
 - Toolbar
 - RecyclerView
@@ -61,7 +57,10 @@ Functionalities implemented:
 - com.jakewharton:butterknife 6.0.0
 - android-async-http 1.4.4
 - crouton 1.8.5
-
+- 
+###Developed By
+* Jumbo Chu - http://personal-env.elasticbeanstalk.com/single-page - <chu.jing.bo.stan@gmail.com>
+* 
 ### Support
 
 - Google+ Community: https://plus.google.com/communities/105153134372062985968

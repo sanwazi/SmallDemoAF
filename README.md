@@ -48,15 +48,15 @@ Functionalities implemented:
 
 ### Getting Started
 
--1.Download this project Zip
--2.Open it with Android Studio
--3.Run it using your vitural device/real device online
--4.Turn off network, run it. then there is not data shown on screen
--5.Turn on Networkd, run it. then show some shoping-items
--7.Click item then go to detail page
--8.Click shop button then go to A&F website
--9.Or Presse back/home button(from action bar), then back to privous page
--10.Shut donw your network. run it you will find it still works (Alert network issue)
+- Download this project Zip
+- Open it with Android Studio
+- Run it using your vitural device/real device online
+- Turn off network, run it. then there is not data shown on screen
+- Turn on Networkd, run it. then show some shoping-items
+- Click item then go to detail page
+- Click shop button then go to A&F website
+- Or Presse back/home button(from action bar), then back to privous page
+- Shut donw your network. run it you will find it still works (Alert network issue)
 
 ### Used Thried Library
 
@@ -66,7 +66,8 @@ Functionalities implemented:
 - com.jakewharton:butterknife 6.0.0
 - android-async-http 1.4.4
 - crouton 1.8.5
-- 
+
+
 #####Developed By
 * Jumbo Chu - http://personal-env.elasticbeanstalk.com/single-page - <chu.jing.bo.stan@gmail.com>
 * 

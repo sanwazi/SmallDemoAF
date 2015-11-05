@@ -5,6 +5,11 @@ This is a simple demostration to show Abercrombie&Fitch promotions with Android'
 
 * [Youtube](https://youtu.be/gN7NpyFjwdw)
 
+# Demo
+
+![PrintScreen APP exemplo](https://cloud.githubusercontent.com/assets/9556537/10978104/1f4feb0e-83c3-11e5-8fac-83e1be0fb5c2.png)
+
+
 This includes features like:
 - Toolbar
 - RecyclerView

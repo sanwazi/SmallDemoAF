@@ -1,5 +1,5 @@
 
-# Small demonstartion of Material Design with Abercrombie&Fitch promotions
+# Demonstartion of Material Design with Abercrombie&Fitch promotions
 
 This is a simple demostration to show Abercrombie&Fitch promotions with Android's some new Material Design and some other cool new stuff which is (new) in Android Lollipop.
 

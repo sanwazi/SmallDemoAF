@@ -39,7 +39,7 @@ Functionalities implemented:
 ### Setup/run requirements:
 - Lastest Android SDK tools 
 - Lastest Android platform tools
-- Android SDK Build tools at least 21.1.1
+- Android SDK Build tools at least 23.0.1
 - Android SDK 23 (at least Android 21 API)
 - Android Support Respository
 - Android Support Library 23 (at least 21.1.1)

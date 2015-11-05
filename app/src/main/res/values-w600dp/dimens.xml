@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_vertical_margin">32dp</dimen>
+
+    <dimen name="activity_promotion_margins">@dimen/activity_horizontal_margin</dimen>
+
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="activity_horizontal_margin_half">16dp</dimen>
+    <dimen name="insets">5dp</dimen>
+
+    <dimen name="item_promotion_height">300dp</dimen>
+    <dimen name="navigation_drawer_width">300dp</dimen>
+    <dimen name="activity_promotion_background_view_height">196dp</dimen>
+</resources>

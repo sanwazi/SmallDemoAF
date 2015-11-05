@@ -7,7 +7,8 @@ This is a simple demostration to show Abercrombie&Fitch promotions with Android'
 
 # Demo
 
-![PrintScreen APP exemplo](https://cloud.githubusercontent.com/assets/9556537/10978104/1f4feb0e-83c3-11e5-8fac-83e1be0fb5c2.png)
+![PrintScreen APP exemplo](https://cloud.githubusercontent.com/assets/9556537/10978104/1f4feb0e-83c3-11e5-8fac-83e1be0fb5c2.png)(https://cloud.githubusercontent.com/assets/9556537/10978102/1bdda5ce-83c3-11e5-923a-d2357be29a4e.png)
+![PrintScreen APP exemplo](https://cloud.githubusercontent.com/assets/9556537/10978103/1d0b08e2-83c3-11e5-913b-7c9908e89b6a.png)(https://cloud.githubusercontent.com/assets/9556537/10978108/21e15e02-83c3-11e5-95b6-755d5a4bcb85.png)
 
 
 This includes features like:

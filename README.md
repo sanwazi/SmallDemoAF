@@ -20,6 +20,7 @@ This includes features like:
 - Android Compat Theme
 
 Functionalities implemented:
+
 	Online---
 - Request data from A&F webite and parse it into the shoping-item promotion
 - Show image and title of shoping-item 
@@ -47,7 +48,7 @@ Functionalities implemented:
 
 ### Getting Started
 
-1.Download this project Zip 
+1.Download this project Zip #
 2.Open it with Android Studio
 3.Run it using your vitural device/real device online
 4.Turn off network, run it. then there is not data shown on screen

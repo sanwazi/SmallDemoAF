@@ -46,10 +46,11 @@ Functionalities implemented:
 - Google Respository
 - Run with Android 5.0/higher system device
 
-### Getting Started
+### Getting Started / How to test it
 
 - Download this project Zip
 - Open it with Android Studio
+- setup your SDK location
 - Run it using your vitural device/real device online
 - Turn off network, run it. then there is not data shown on screen
 - Turn on Networkd, run it. then show some shoping-items

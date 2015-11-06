@@ -51,7 +51,7 @@ Functionalities implemented:
 - Download this project Zip
 - Open it with Android Studio
 - setup your SDK location
-- Run it using your vitural device/real device online (Android device better to be with 21 API)
+- Run it using your vitural device/real device online (Android device better to be with 22 API)
 - Turn off network, run it. then there is not data shown on screen
 - Turn on Networkd, run it. then show some shoping-items
 - Click item then go to detail page

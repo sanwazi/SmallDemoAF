@@ -7,10 +7,12 @@
     <dimen name="insets">5dp</dimen>
 
     <dimen name="item_promotion_width">196dp</dimen>
+    <dimen name="item_promotion_width_hdpi">196dp</dimen>
     <dimen name="item_promotion_height">248dp</dimen>
     <dimen name="promotion_elevation"> 5dp</dimen>
 
     <dimen name="promotion_detail_height">448dp</dimen>
+    <dimen name="promotion_detail_height_v21">348dp</dimen>
     <dimen name="description_promotion_corner_radius">8dp</dimen>
 
     <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
